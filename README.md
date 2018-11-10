@@ -5,7 +5,7 @@ This Project to to create a frontend application that allows users to access inf
 
 Requirements of the application
 
-* Coded in Angular 7 and the latest bootstrape
+* Coded in Angular 7 and the latest bootstrap
 * 4 tabs: Home, Schedule of Events, Directions and Lodging, Registration
 * Home tab should have a summary of the charity and who it benifits. Also would like a space for donators to the charaty and links to their sites if any
 * Schedule of events tab will have a table of what events are being run and when they are being run. This might include links to be able to sign up for the events at tabletop.events
